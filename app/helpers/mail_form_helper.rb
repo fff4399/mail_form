@@ -1,0 +1,2 @@
+module MailFormHelper
+end
